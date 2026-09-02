@@ -1,0 +1,1 @@
+﻿// TODO: IMPLEMENT ArtistCard.tsx
