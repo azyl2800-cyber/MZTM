@@ -1,0 +1,5 @@
+﻿User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /store/checkout/
+Sitemap: https://mztm.pl/sitemap.xml
